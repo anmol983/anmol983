@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Knoww App**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently honing my skills in **data structures and algorithms (DSA)**
 
 - 👨‍💻 All of my projects are available at [https://github.com/anmol983](https://github.com/anmol983)
 
